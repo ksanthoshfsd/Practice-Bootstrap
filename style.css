@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
+
+.header-1 {
+  font-family: "Merriweather", serif !important;
+}
+
+.navbar {
+    background-image: ng-linear-gradient(180deg, #91C1E1 0px, #91C1E1 2px, transparent 2px, transparent 38px), linear-gradient(white,white) !important;
+  }
+
+
+  .navbar-brand {
+    margin-right: auto;
+}
+
+.navbar-brand{
+  font-size: 2rem !important;
+}
+.nav-link:hover{
+  background-color: rgb(199, 198, 198);
+  color: rgb(210, 217, 217) !important;
+  border-radius: 50px !important;
+}
+.d-flex :hover{
+  background-color: rgb(199, 198, 198) !important;
+  color: rgb(36, 194, 194) !important;
+  border-radius: 50px !important;
+}
+
+
+.navbar-toggler {
+  background-color: rgb(204, 223, 221) !important;
+
+}
+
+.h1 {
+  font-family: "Quicksand", sans-serif;
+}
+
+.header-1 {
+  /* background-color: black; */
+  background-image: repeating-linear-gradient(135deg, rgb(0,0,0) 0px, rgb(0,0,0) 10px,transparent 10px, transparent 11px),repeating-linear-gradient(22.5deg, rgb(0,0,0) 0px, rgb(0,0,0) 10px,transparent 10px, transparent 11px),linear-gradient(90deg, hsl(194,74%,56%),hsl(266,74%,56%),hsl(338,74%,56%),hsl(50,74%,56%),hsl(122,74%,56%));
+  color: aliceblue;
+}
+
+.abc {
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+/* .card-1 :hover{
+  zoom : 
+} */
+.accordion-button {
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+ }
+
+ .accordion-collapse {
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,230,1) 100%);
+ }
